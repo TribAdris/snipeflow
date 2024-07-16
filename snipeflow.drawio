@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T04:06:24.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Bnwlfw1mFB_Bu1BwHkQU" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T05:51:24.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="4Gs6TyvElcLyUIRCbbnR" version="24.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1295" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2549" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -26,9 +26,6 @@
             <mxPoint x="590" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AWEgeMBO9_SoQ7ImMLee-5" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="30" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="AWEgeMBO9_SoQ7ImMLee-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-7" target="AWEgeMBO9_SoQ7ImMLee-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="320" as="targetPoint" />
@@ -53,8 +50,8 @@
         <mxCell id="AWEgeMBO9_SoQ7ImMLee-10" value="Tech creates two tickets&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Hardware Ticket&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Any work required ticket&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;If Applicable,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;use best judgement&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;spacingBottom=0;spacingTop=0;spacing=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="72.5" width="155" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="AWEgeMBO9_SoQ7ImMLee-11" value="Is the Hardware in AIM Stock?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="330" width="160" height="150" as="geometry" />
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-11" value="Is the Hardware&lt;div&gt;&amp;nbsp;in AIM Stock?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="325" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AWEgeMBO9_SoQ7ImMLee-15" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-11" target="AWEgeMBO9_SoQ7ImMLee-18">
           <mxGeometry x="-0.0526" y="-10" relative="1" as="geometry">
@@ -70,11 +67,185 @@
             <mxPoint x="615" y="404.58000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AWEgeMBO9_SoQ7ImMLee-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="325" width="160" height="160" as="geometry" />
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-18" target="AWEgeMBO9_SoQ7ImMLee-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AWEgeMBO9_SoQ7ImMLee-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="338.75" width="132.5" height="132.5" as="geometry" />
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-18" value="Add to the notes of the ticket&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;[asset name &amp;amp; number](URL)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;spacingLeft=1;spacingRight=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="305" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-19" target="AWEgeMBO9_SoQ7ImMLee-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-19" value="Search online for the best option" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="318.75" width="132.5" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-20" value="Start Hardware Ticket" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="308" y="230" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-22" target="AWEgeMBO9_SoQ7ImMLee-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-22" value="Update status of asset to&lt;br&gt;Reserved for Deployment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="530" width="140" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-24" target="AWEgeMBO9_SoQ7ImMLee-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-24" target="AWEgeMBO9_SoQ7ImMLee-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-24" value="Add the equipment to the notes using the &lt;font style=&quot;font-size: 11px;&quot;&gt;[item](url)&lt;/font&gt; formate" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="531.25" width="132.5" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-29" value="Its a computer add a picture of the specs to the ticket&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="567.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-31" value="If" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="570" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-32" value="Could also select pending ticket&amp;nbsp;&lt;div&gt;for accounting&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-150" y="351.25" width="110" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-18" target="AWEgeMBO9_SoQ7ImMLee-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-42" value="Send ticket over to Lauren with notification on to notify client&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="570" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-44" target="AWEgeMBO9_SoQ7ImMLee-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-44" value="Lauren will create the sales order request and will CC the tech on the email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-47" value="Did the client accept the Sales Order?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="750" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-49" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-47" target="AWEgeMBO9_SoQ7ImMLee-51">
+          <mxGeometry x="0.0566" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="280" y="880" as="sourcePoint" />
+            <mxPoint x="190" y="880" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-50" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-47" target="AWEgeMBO9_SoQ7ImMLee-52">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="480" y="880" as="sourcePoint" />
+            <mxPoint x="600" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-51" target="AWEgeMBO9_SoQ7ImMLee-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-51" value="Lauren will order the equipment&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="762.5" width="140" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-52" target="AWEgeMBO9_SoQ7ImMLee-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-52" value="Continue searching for the best item according to the client&#39;s request" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="763.75" width="132.5" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-53" target="AWEgeMBO9_SoQ7ImMLee-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-53" value="She then will send the ticket over to Anthony for Pre-Adding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-57" target="AWEgeMBO9_SoQ7ImMLee-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-57" target="AWEgeMBO9_SoQ7ImMLee-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-57" value="Anthony will pre-add the equipment to snipe using the information available at the time" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="45" y="1050" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-61" value="&lt;b&gt;Usually includes&lt;br&gt;&lt;/b&gt;&lt;ul style=&quot;margin-left: -45px; margin-right: -20px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Company&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Model&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;OS&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;RAM&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Storage Space&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;CPU&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Ticket Number&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Status (Receiving)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Asset Name&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Cost&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Default Location&lt;/li&gt;&lt;/ul&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-180" y="976.25" width="133.75" height="217.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-63" target="AWEgeMBO9_SoQ7ImMLee-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-63" value="Anthony will then add the asset to the notes using []() format. He will also note what needs to be updated upon arrival" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="1037.5" width="130" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-66" value="&lt;b&gt;Usually includes&lt;br&gt;&lt;/b&gt;&lt;ul style=&quot;margin-left: -35px; margin-right: -20px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Status&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Serial Number&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;MAC Address&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Check Out&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=south;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="447.80999999999995" y="1024.0700000000002" width="106.25" height="121.87" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-63" target="AWEgeMBO9_SoQ7ImMLee-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-68" target="AWEgeMBO9_SoQ7ImMLee-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="344.07000000000016" y="1315" as="targetPoint" />
+            <mxPoint x="530.0000000000005" y="1010" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-68" target="AWEgeMBO9_SoQ7ImMLee-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="1085" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-68" value="Then he will send the ticket back over to the techn" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="1193.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-71" value="Has the equipment arrived?" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="25.93" y="1319.6799999999998" width="164.07" height="149.38" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-73" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-71" target="AWEgeMBO9_SoQ7ImMLee-75">
+          <mxGeometry x="0.012" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="100" y="1479.83" as="sourcePoint" />
+            <mxPoint x="-24.019999999999982" y="1460.0249999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-71" target="AWEgeMBO9_SoQ7ImMLee-76">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="470" y="1444.58" as="sourcePoint" />
+            <mxPoint x="410" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-75" value="Lauren will order the equipment&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="37.97" y="1560" width="140" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-76" value="Continue searching for the best item according to the client&#39;s request" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="252.5" y="1328.12" width="132.5" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-78" target="AWEgeMBO9_SoQ7ImMLee-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AWEgeMBO9_SoQ7ImMLee-78" target="AWEgeMBO9_SoQ7ImMLee-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="1394.375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-78" value="Did Anthony&amp;nbsp;&lt;div&gt;update the ticket, stating the equipment has arrived?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="1319.68" width="170.01" height="150.33" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-80" value="Lauren will order the equipment&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="455" y="1550" width="140" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-83" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="1498" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-84" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="393" y="1340" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-85" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="1370" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AWEgeMBO9_SoQ7ImMLee-88" value="&lt;b&gt;Usually includes&lt;br&gt;&lt;/b&gt;&lt;ul style=&quot;margin-left: -35px; margin-right: -20px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Status&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Serial Number&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;MAC Address&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Check Out&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=south;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;spacingLeft=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="638.75" y="1278.13" width="106.25" height="121.87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
